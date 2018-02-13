@@ -1,5 +1,7 @@
 ### Eclipse ###
 
+target/
+
 .metadata
 bin/
 tmp/
